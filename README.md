@@ -3,4 +3,4 @@
 - Sua História e Evolução
 - Resolvendo Desafios e muitos exercicios
   #
-  @CursoemVideo
+  [@CursoemVideo](https://www.cursoemvideo.com)
