@@ -1,6 +1,6 @@
 ## JavaScript
 - Estudo sobre os comandos Básicos de JavaScript
-- Sua História e Evolução
+- Entendendo sobre o DOM
 - Resolvendo Desafios e muitos exercicios
   #
   Material utilizado atravez do [@CursoemVideo](https://www.cursoemvideo.com)
