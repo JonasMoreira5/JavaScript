@@ -1,1 +1,6 @@
-# JavaScript
+## JavaScript
+- Estudo sobre os comandos Básicos de JavaScript
+- Sua História e Evolução
+- Resolvendo Desafios e muitos exercicios
+  #
+  @CursoemVideo
