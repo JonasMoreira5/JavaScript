@@ -3,4 +3,4 @@
 - Sua História e Evolução
 - Resolvendo Desafios e muitos exercicios
   #
-  [@CursoemVideo](https://www.cursoemvideo.com)
+  Material utilizado atravez do [@CursoemVideo](https://www.cursoemvideo.com)
